@@ -10,8 +10,18 @@ var y = window.innerHeight;
 var texts = [
   "wrong again",
   ":(",
-  "sashay away",
+  "try again for free",
   "i wish this was the right button",
+  "when you try your best but you don't succeed",
+  "an attemp was made",
+  "i don't even think you tried at all",
+  "you tried a little bit",
+  "good but not the best",
+  "really?",
+  "oh come on",
+  "is this even legal",
+  "gold star 4 effort!",
+  "world's okayest little",
 ];
 
 function preload(){
